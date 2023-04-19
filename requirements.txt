@@ -1,4 +1,4 @@
 matplotlib
 streamlit-aggrid 
 levenshtein
-cv2
+opencv-python
