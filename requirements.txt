@@ -2,3 +2,12 @@ matplotlib
 streamlit-aggrid 
 levenshtein
 opencv-python
+tensorflow
+doctr
+python-doctr
+tf2onnx
+tensorflow-addons
+streamlit-authenticator==0.1.5
+streamlit-option-menu
+streamlit-modal
+openpyxl
