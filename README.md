@@ -1,5 +1,5 @@
 
-# MANUFACTURING CAD DRAWING VALIDATION WITH BOM SPECIFICATION
+# MANUFACTURING CAD DRAWING VALIDATION WITH BOM SPECIFICATION (FYP IP2)
 
 Before getting start and deployment of the application, there are few required library to deploy this web application
 This readme guide will be using Python package manager to install libraries, you can do it manually too.
