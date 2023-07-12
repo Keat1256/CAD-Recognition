@@ -59,7 +59,7 @@ Also check out the deployed version by Myself (Lim Yong Keat 0198584)
 ```bash
 https://huggingface.co/spaces/Keat1256/cad_recognition
 ```
-Note: This repository will be set to public for 1 month starting from 27/4/2023
+Note: This repository will be set to public ~~for 1 month starting from 27/4/2023~~
 Please email me at 0198584@student.uow.edu.my to extend the deployment
 
 
